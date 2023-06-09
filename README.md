@@ -7,3 +7,6 @@ Nueva informacion para pooling
 
 ## Otra informacion
 Primer párrafo
+
+## Otra informacion
+Segundo párrafo
