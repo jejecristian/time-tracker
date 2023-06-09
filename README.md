@@ -10,3 +10,6 @@ Primer párrafo
 
 ## Otra informacion
 Segundo párrafo
+
+## Otra informacion
+Tercer párrafo
